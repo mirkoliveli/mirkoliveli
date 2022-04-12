@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mirkoliveli&color=green&label=PROFILE+VIEWS&style=for-the-badge">
 
 
-### Hi there 👋 
+### Hello there 👋 
 <div style="text-align: justify"> 
 My name is Mirko and this is my GitHub profile 👤
 </div>
