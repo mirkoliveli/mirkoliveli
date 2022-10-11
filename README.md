@@ -1,6 +1,6 @@
+[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/mirkoliveli)
 <img align="right" src="https://komarev.com/ghpvc/?username=mirkoliveli&color=green&label=PROFILE+VIEWS&style=for-the-badge">
 
-[![Linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]( www.linkedin.com/in/mirkoliveli)
 
 ### Hello there 👋 
 <div style="text-align: justify"> 
