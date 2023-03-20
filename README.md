@@ -61,4 +61,4 @@ _(Click on the badge to see the related prject)_
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkoliveli&layout=compact&langs_count=8&bg_color=0d1117&border_color=0d1117&icon_color=00d26a&title_color=00d26a&text_color=ffffff" />
 </a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@e0f28593-c540-4ae6-9ffc-27b973700078/9e9fa1c9-fe90-4e94-ba9c-e59d71607e5c.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@e0f28593-c540-4ae6-9ffc-27b973700078/ea6fe30c-a89e-4b10-82b8-610e0c90bb7f.png" /></a>
