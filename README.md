@@ -7,39 +7,41 @@
 I'm **Mirko**, Computer Science & Engineering graduate from  
 [Politecnico di Milano](https://www.polimi.it/).
 
-I enjoy working at the intersection of **software engineering, cybersecurity and data**, 
-and I like understanding *how systems really work under the hood*.
+Welcome to my personal GitHub! Here you’ll find some fun side projects alongside university assignments and experiments.
+
+I work as a **Data Engineer**, building reliable and efficient data pipelines, and enjoy solving complex problems with data.  
+I focus on **SQL-based analytics**, cloud data warehouses, and scalable ETL workflows.
 
 ---
 
 ## What I care about
-- 🔐 **Cybersecurity** — system-level thinking, threat modeling, secure design
-- 📊 **Data & Algorithms** — not just using tools, but understanding trade-offs
-- 🎙 **Radio & Communication** — technology is useless if you can’t explain it
-- 🎮 **Games & Media** — interactive systems fascinate me
+- 🧩 **Data Engineering** — SQL, Snowflake, BigQuery, ETL pipelines, data modeling  
+- 📊 **Analytics & Visualization** — turning raw data into actionable insights  
+- 🎙 **Radio & Communication** — I enjoy explaining complex concepts in simple terms  
+- 🎮 **Games & Media** — interactive systems and storytelling fascinate me  
 
 ---
 
-## Technologies I actually use
-**Languages**
-- C / C++ (systems, performance-critical code)
-- Java (OOP, distributed projects)
-- Python (data analysis, scripting, prototyping)
-- VHDL (digital logic, academic projects)
+## Technologies I use
+**Languages & Querying**
+- SQL (BigQuery, Snowflake)
+- Python (data processing, scripting, automation)
+- C / Java (academic and side projects)
 
 **Tools & Environments**
 - Git, Linux, Docker
 - IntelliJ IDEA, CLion, PyCharm, VS Code
-- Salesforce (CRM context)
+- Cloud data platforms: Snowflake, BigQuery
+- ETL & workflow orchestration (optional: mention Airflow / dbt if you use them)
 
 ---
 
 ## Selected projects
-Here are some repositories that represent how I think and work:
+Repositories that showcase how I work with data:
 
-- 🧠 **Algorithms & Data Structures** — academic but solid foundations  
-- 🛡 **Security-oriented projects** — focus on correctness and robustness  
-- ⚙️ **System-level assignments** — attention to performance and constraints  
+- 🗄 **Data pipelines & transformations** — SQL, Python, BigQuery/Snowflake  
+- 📊 **Analytics & dashboards** — turning datasets into actionable insights  
+- ⚙️ **System-level assignments & personal projects** — focus on reliability and efficiency  
 
 📌 *Pinned repositories below show concrete examples.*
 
