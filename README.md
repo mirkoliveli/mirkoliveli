@@ -32,7 +32,7 @@ I focus on **SQL-based analytics**, cloud data warehouses, and scalable ETL work
 - Git, Linux, Docker
 - IntelliJ IDEA, CLion, PyCharm, VS Code
 - Cloud data platforms: Snowflake, BigQuery
-- ETL & workflow orchestration (optional: mention Airflow / dbt if you use them)
+- ETL & workflow orchestration (dbt)
 
 ---
 
